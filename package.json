@@ -1,6 +1,6 @@
 {
   "name": "zut",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "",
   "license": "MIT",
   "repository": "thomas-lebeau/gulp-say",
@@ -19,7 +19,12 @@
     "index.js"
   ],
   "keywords": [
-    ""
+    "zut",
+    "say",
+    "festival",
+    "talk",
+    "error",
+    "snap"
   ],
   "dependencies": {
     "flat": "^1.6.0",
