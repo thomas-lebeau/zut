@@ -1,13 +1,13 @@
 {
-  "name": "<%= moduleName %>",
+  "name": "zut",
   "version": "0.0.0",
   "description": "",
   "license": "MIT",
-  "repository": "<%= githubUsername %>/<%= moduleName %>",
+  "repository": "thomas-lebeau/gulp-say",
   "author": {
-    "name": "<%= name %>",
-    "email": "<%= email %>",
-    "url": "<%= website %>"
+    "name": "Thomas Lebeau",
+    "email": "lebeau.thomas@gmail.com",
+    "url": "http://lebeau.io"
   },
   "engines": {
     "node": ">=0.10.0"
@@ -21,7 +21,15 @@
   "keywords": [
     ""
   ],
-  "dependencies": {},
+  "dependencies": {
+    "flat": "^1.6.0",
+    "get-value": "^1.2.1",
+    "gulp-util": "^3.0.6",
+    "has-own-deep": "^0.1.4",
+    "object-assign": "^4.0.1",
+    "say": "^0.6.0",
+    "through2": "^2.0.0"
+  },
   "devDependencies": {
     "mocha": "^2.2.5",
     "xo": "^0.7.1"
