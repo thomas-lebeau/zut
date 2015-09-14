@@ -16,6 +16,6 @@ module.exports = {
 		'Talk to the hand',
 		'There seems to be no sign of intelligent code anywhere...',
 		'They told me I could be anything, so I became an errors',
-		'You have not received an error message lately so here is a random one.',
+		'You have not received an error message lately so here is a random one.'
 	]
 };
