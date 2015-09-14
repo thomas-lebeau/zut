@@ -6,6 +6,6 @@ module.exports = {
 		'Ooops I did it again!',
 		'Hasta la vista Baby',
 		'Talk to the hand',
-		'I\'m sorry Dave, I\'m affraid there is nothing there'
+		'I\'m sorry Dave, I\'m afraid there is nothing there'
 	]
 };
