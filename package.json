@@ -13,8 +13,8 @@
     "node": ">=0.10.0"
   },
   "scripts": {
-    "test": "xo && ava",
-    "test:watch": "watch 'npm test'"
+    "test": "xo",
+    "test:watch": "watch ava"
   },
   "files": [
     "index.js"
