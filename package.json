@@ -13,7 +13,8 @@
     "node": ">=0.10.0"
   },
   "scripts": {
-    "test": "xo"
+    "test": "xo && ava",
+    "test:watch": "watch 'npm test'"
   },
   "files": [
     "index.js"
@@ -33,13 +34,13 @@
     "say": "^0.6.0"
   },
   "devDependencies": {
-    "mocha": "^2.2.5",
-    "xo": "^0.7.1"
+    "ava": "^0.2.0",
+    "watch": "^0.16.0",
+    "xo": "^0.9.0"
   },
   "xo": {
     "envs": [
-      "node",
-      "mocha"
+      "node"
     ]
   }
 }

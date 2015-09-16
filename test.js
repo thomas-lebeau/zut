@@ -1,7 +1,20 @@
-'use strict';
-var assert = require('assert');
-var zut = require('./');
+import test from 'ava';
+import zut from './';
+import messages from './messages.js';
 
-it('should ', function () {
-	assert.strictEqual(zut('unicorns'), 'unicorns & rainbows');
+test('say something random', t => {
+	t.plan(2);
+	t.is(typeof zut(), 'String');
+	t.not(zut(), zut());
+});
+
+test('say "Hello World!"', t => {
+	t.plan(2);
+	t.is(zut({messages: 'Hello World!'}), 'Hello World!');
+	t.is(zut('Hello World!'), 'Hello World!');
+});
+
+test('say an error message', t => {
+	t.plan(1);
+	t.true(messages.errors.indexOf(zut({filter: 'errors'})) >= 0);
 });
