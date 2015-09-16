@@ -76,7 +76,7 @@ _For now only one category is available: `errors`._
 
 ## Contribute
 
-Contributions welcome! You may want to check issue #1 but any other PR will be considered.
+Contributions welcome! You may want to check issue [#1](https://github.com/thomas-lebeau/zut/issues/1) but any other PR will be considered.
 
 
 ## License
