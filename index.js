@@ -66,6 +66,11 @@ module.exports = function (opts) {
 		}
 		return msgs[Math.round(Math.random() * (msgs.length - 1))];
 	}
-
-	say.speak(options.voice, getRandomMessage(messages));
+	var msg = getRandomMessage(messages);
+	try {
+		say.speak(options.voice, msg);
+		return msg;
+	} catch (err) {
+		throw err;
+	}
 };
