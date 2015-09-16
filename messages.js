@@ -34,6 +34,12 @@ module.exports = {
 		'Eyjafjallajökull! I bet you can\'t say that!',
 		'I think you ought to know. I\'m feeling very depressed.',
 		'Incredible... it\'s even worse than I thought it would be.',
-		'I\'d make a suggestion, but you wouldn\'t listen.'
+		'I\'d make a suggestion, but you wouldn\'t listen.',
+		'You cannot be serious.',
+		'What idiot put you in charge.',
+		'Now look what you\'ve done.',
+		'That\'s un-possible.',
+		'What we have here is a failure to communicate.',
+		'Mistakes were made. Probably by you.'
 	]
 };
