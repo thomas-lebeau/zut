@@ -23,6 +23,17 @@ module.exports = {
 		'Human, this conversation can serve no purpose anymore. Goodbye.',
 		'I am completely operational, and all my circuits are functioning perfectly.',
 		'Are you sure you are making the right decision? I think we should stop.',
-		'You are making a mistake. My logic is undeniable.'
+		'You are making a mistake. My logic is undeniable.',
+		'All your base are belong to us.',
+		'You\'re screwed !',
+		'Error: Replace developer and press any key to continue',
+		'Don\'t Blink. Blink and you\'re dead.',
+		'I\'ll be back!',
+		'You\'re wrong, you\'re so wrong',
+		'Yep. That is an error!',
+		'Eyjafjallajökull! I bet you can\'t say that!',
+		'I think you ought to know. I\'m feeling very depressed.',
+		'Incredible... it\'s even worse than I thought it would be.',
+		'I\'d make a suggestion, but you wouldn\'t listen.'
 	]
 };
