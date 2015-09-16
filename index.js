@@ -11,6 +11,11 @@ module.exports = function (opts) {
 		messages: msgs,
 		filters: false
 	};
+
+	if (typeof opts === 'string') {
+		defaults.messages = opts;
+	}
+
 	var options = assign({}, defaults, opts);
 	var messages = [];
 
