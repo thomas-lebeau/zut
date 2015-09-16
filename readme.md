@@ -74,6 +74,10 @@ Type: `String`, `Array`
 Restrict to one or more category.  
 _For now only one category is available: `errors`._
 
+## Contribute
+
+Contributions welcome! You may want to check issue #1 but any other PR will be considered.
+
 
 ## License
 
