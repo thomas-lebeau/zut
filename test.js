@@ -4,7 +4,7 @@ import messages from './messages.js';
 
 test('say something random', t => {
 	t.plan(2);
-	t.is(typeof zut(), 'String');
+	t.is(typeof zut(), 'string');
 	t.not(zut(), zut());
 });
 
