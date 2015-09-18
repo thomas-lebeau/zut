@@ -23,6 +23,9 @@ module.exports = {
 		'Human, this conversation can serve no purpose anymore. Goodbye.',
 		'I am completely operational, and all my circuits are functioning perfectly.',
 		'Are you sure you are making the right decision? I think we should stop.',
-		'You are making a mistake. My logic is undeniable.'
+		'You are making a mistake. My logic is undeniable.',
+		'Computer says no.',
+		'There\'s an error, I don\'t really know what it is.',
+		'Something didn\'t work, you might want to fix that but what do I know?'
 	]
 };
