@@ -40,6 +40,9 @@ module.exports = {
 		'Now look what you\'ve done.',
 		'That\'s un-possible.',
 		'What we have here is a failure to communicate.',
-		'Mistakes were made. Probably by you.'
+		'Mistakes were made. Probably by you.',
+		'Computer says no.',
+		'There\'s an error, I don\'t really know what it is.',
+		'Something didn\'t work, you might want to fix that but what do I know?'
 	]
 };
