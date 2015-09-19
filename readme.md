@@ -78,6 +78,10 @@ _For now only one category is available: `errors`._
 
 Contributions welcome! You may want to check issue [#1](https://github.com/thomas-lebeau/zut/issues/1) but any other PR will be considered.
 
+## FAQ
+### What is 'zut'?
+
+"Zut!" is the French for "Damn!"
 
 ## License
 
