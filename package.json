@@ -1,6 +1,6 @@
 {
   "name": "zut",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "",
   "license": "MIT",
   "repository": "thomas-lebeau/zut",
@@ -17,7 +17,8 @@
     "test:watch": "watch ava"
   },
   "files": [
-    "index.js"
+    "index.js",
+    "messages.js"
   ],
   "keywords": [
     "zut",
