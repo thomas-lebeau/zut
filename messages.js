@@ -43,6 +43,8 @@ module.exports = {
 		'Mistakes were made. Probably by you.',
 		'Computer says no.',
 		'There\'s an error, I don\'t really know what it is.',
-		'Something didn\'t work, you might want to fix that but what do I know?'
+		'Something didn\'t work, you might want to fix that but what do I know?',
+		'I AM ERROR',
+		'You killed my favorite second cousin. Big mistake.'
 	]
 };
