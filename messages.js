@@ -45,6 +45,7 @@ module.exports = {
 		'There\'s an error, I don\'t really know what it is.',
 		'Something didn\'t work, you might want to fix that but what do I know?',
 		'I AM ERROR',
-		'You killed my favorite second cousin. Big mistake.'
+		'You killed my favorite second cousin. Big mistake.',
+		'OH NO!!  You have cancelled Christmas!'
 	]
 };
