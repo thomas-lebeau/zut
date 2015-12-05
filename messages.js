@@ -46,5 +46,6 @@ module.exports = {
 		'Something didn\'t work, you might want to fix that but what do I know?',
 		'I AM ERROR',
 		'You killed my favorite second cousin. Big mistake.'
+		'It\'s not a bug, it\'s a feature!'
 	]
 };
