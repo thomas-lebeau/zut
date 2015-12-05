@@ -51,5 +51,10 @@ module.exports = {
 		'Welp. You broke it.'
 		'Trying is the first step towards failure.'
 		'Sucking at something is the first step to becoming kinda good at something.'
+		'Sashay away',
+		'The time has come...for you to lipsync...FOR YOUR LIFE!',
+		'What have you done?!!! I\'m MELTING!!',
+		'Don\'t you hate failure when there\'s no one else to blame it on',
+		'"Trying is the first step towards failure"-Homer Simpson 1997'
 	]
 };
