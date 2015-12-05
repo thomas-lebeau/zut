@@ -46,5 +46,10 @@ module.exports = {
 		'Something didn\'t work, you might want to fix that but what do I know?',
 		'I AM ERROR',
 		'You killed my favorite second cousin. Big mistake.'
+		'You dun\' goofed.'
+		'WHAT DID YOU DO?!'
+		'Welp. You broke it.'
+		'Trying is the first step towards failure.'
+		'Sucking at something is the first step to becoming kinda good at something.'
 	]
 };
