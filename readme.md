@@ -72,7 +72,7 @@ Type: `String`, `Array` or `Object`
 Type: `String`, `Array`  
 
 Restrict to one or more category.  
-_For now only one category is available: `errors`._
+For example 'errors' or 'success'.
 
 ## Contribute
 
