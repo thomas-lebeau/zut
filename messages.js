@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-	
+
 	success: [
 		'You\'re the best.'
 	],
