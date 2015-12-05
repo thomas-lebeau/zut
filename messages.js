@@ -1,6 +1,10 @@
 'use strict';
 
 module.exports = {
+	
+	success: [
+		'You\'re the best.'
+	],
 	errors: [
 		'Anomaly detected',
 		'Answer unknown. I shall analyze... Analysis complete: Insufficient data to resolve problem',
