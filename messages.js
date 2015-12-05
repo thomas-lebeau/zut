@@ -51,5 +51,6 @@ module.exports = {
 		'What have you done?!!! I\'m MELTING!!',
 		'Don\'t you hate failure when there\'s no one else to blame it on',
 		'"Trying is the first step towards failure"-Homer Simpson 1997'
+		'If at first you do not succeed, dust yourself off and try again.'
 	]
 };
