@@ -1,5 +1,7 @@
 # zut! 
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/thomas-lebeau/zut.svg)](https://greenkeeper.io/)
+
 > We all swear at our computers when things go sideways. Now it's time for payback!  
 > **i.e.:** Makes your computer say random stuffs to you.
 
